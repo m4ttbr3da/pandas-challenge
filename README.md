@@ -3,7 +3,7 @@ A project that analyzes video game purchase data, utilizing Pandas and Python
 
 ## Background
 
-![Fantasy](Images/Fantasy.png)
+![image](https://user-images.githubusercontent.com/69601778/118575925-5ceeb280-b73c-11eb-84c6-10e8442344ad.png)
 
 For this project, I was assigned the task of analyzing the data for a fictitious video game company's most recent fantasy game, Heroes of Pymoli.
 
